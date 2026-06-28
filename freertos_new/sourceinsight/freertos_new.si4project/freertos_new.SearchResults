@@ -1,0 +1,16 @@
+---- RCC_PLLConfig Matches (15 in 3 files) ----
+freertos_new.rpt (freertos_new.si4project) line 18238 :     void RCC_PLLConfig(uint32_t RCC_PLLSource, uint32_t PLLM, uint32_t PLLN, uint32_t PLLP, uint32_t PLLQ) (Function at line 539-549)
+freertos_new.rpt (freertos_new.si4project) line 18239 :     void RCC_PLLConfig(uint32_t RCC_PLLSource, uint32_t PLLM, uint32_t PLLN, uint32_t PLLP, uint32_t PLLQ, uint32_t PLLR) (Function at line 488-499)
+freertos_new.rpt (freertos_new.si4project) line 18587 :     void RCC_PLLConfig(uint32_t RCC_PLLSource, uint32_t PLLM, uint32_t PLLN, uint32_t PLLP, uint32_t PLLQ) (Function Prototype at line 906-906)
+freertos_new.rpt (freertos_new.si4project) line 18588 :     void RCC_PLLConfig(uint32_t RCC_PLLSource, uint32_t PLLM, uint32_t PLLN, uint32_t PLLP, uint32_t PLLQ, uint32_t PLLR) (Function Prototype at line 902-902)
+stm32f4xx_rcc.c (E:\learn\freertos_new\Libraries\STM32F4xx_StdPeriph_Driver\src) line 488 : void RCC_PLLConfig(uint32_t RCC_PLLSource, uint32_t PLLM, uint32_t PLLN, uint32_t PLLP, uint32_t PLLQ, uint32_t PLLR)
+stm32f4xx_rcc.c (E:\learn\freertos_new\Libraries\STM32F4xx_StdPeriph_Driver\src) line 539 : void RCC_PLLConfig(uint32_t RCC_PLLSource, uint32_t PLLM, uint32_t PLLN, uint32_t PLLP, uint32_t PLLQ)
+stm32f4xx_rcc.c (E:\learn\freertos_new\Libraries\STM32F4xx_StdPeriph_Driver\src) line 579 :   *         RCC_PLLConfig function )  
+stm32f4xx_rcc.c (E:\learn\freertos_new\Libraries\STM32F4xx_StdPeriph_Driver\src) line 611 :   *         RCC_PLLConfig function )  
+stm32f4xx_rcc.c (E:\learn\freertos_new\Libraries\STM32F4xx_StdPeriph_Driver\src) line 650 :   *         RCC_PLLConfig function )  
+stm32f4xx_rcc.c (E:\learn\freertos_new\Libraries\STM32F4xx_StdPeriph_Driver\src) line 686 :   *         RCC_PLLConfig function )  
+stm32f4xx_rcc.c (E:\learn\freertos_new\Libraries\STM32F4xx_StdPeriph_Driver\src) line 747 :   *         RCC_PLLConfig function )  
+stm32f4xx_rcc.c (E:\learn\freertos_new\Libraries\STM32F4xx_StdPeriph_Driver\src) line 785 :   *         RCC_PLLConfig function )  
+stm32f4xx_rcc.c (E:\learn\freertos_new\Libraries\STM32F4xx_StdPeriph_Driver\src) line 826 :   *         RCC_PLLConfig function )  
+stm32f4xx_rcc.h (E:\learn\freertos_new\Libraries\STM32F4xx_StdPeriph_Driver\inc) line 902 : void        RCC_PLLConfig(uint32_t RCC_PLLSource, uint32_t PLLM, uint32_t PLLN, uint32_t PLLP, uint32_t PLLQ, uint32_t PLLR);
+stm32f4xx_rcc.h (E:\learn\freertos_new\Libraries\STM32F4xx_StdPeriph_Driver\inc) line 906 : void        RCC_PLLConfig(uint32_t RCC_PLLSource, uint32_t PLLM, uint32_t PLLN, uint32_t PLLP, uint32_t PLLQ);
