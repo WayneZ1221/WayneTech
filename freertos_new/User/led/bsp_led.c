@@ -24,7 +24,8 @@
   */
 void LED_GPIO_Config(void)
 {		
-		/*定义一个GPIO_InitTypeDef类型的结构体*/
+	uint8_t i;	
+  /*定义一个GPIO_InitTypeDef类型的结构体*/
 		GPIO_InitTypeDef GPIO_InitStructure;
 
 		/*开启LED相关的GPIO外设时钟*/
